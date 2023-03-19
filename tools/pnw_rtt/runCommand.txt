@@ -1,0 +1,1 @@
+python3 pnw_rtt.py ../../test/example._config.json bls_playground -g
